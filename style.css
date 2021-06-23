@@ -1,0 +1,52 @@
+.table-container {
+    border:1px solid black;
+    width:400px;
+    height:400px;
+}
+
+.box1 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box2 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box3 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+
+.box4 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box5 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box6 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box7 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box8 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
+.box9 {
+    border: 1px solid black;
+    width: 33%;
+    height:33%;
+}
